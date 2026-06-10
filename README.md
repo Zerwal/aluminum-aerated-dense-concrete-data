@@ -44,3 +44,38 @@ content ranging from 0% to 5% by mass of cement
 ---
 
 ## Requirements
+Python 3.8+
+numpy
+scipy
+matplotlib
+
+Install dependencies:
+```bash
+pip install numpy scipy matplotlib
+```
+
+Run all figures:
+```bash
+python graphes_final.py
+```
+
+---
+
+## License
+
+This data is made available under the 
+**Creative Commons Attribution 4.0 (CC BY 4.0)** 
+license. You are free to share and adapt the 
+material for any purpose, provided appropriate 
+credit is given.
+
+---
+
+## Citation
+
+If you use this data, please cite:
+
+> Assoka, Z., Mwero, J.N., Pindra, N., & Kawai, K. 
+> (2025). Foaming Efficiency and Mechanical Response 
+> of Aluminum Aerated Dense Concrete. 
+> *Construction and Building Materials* (under review).
